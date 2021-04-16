@@ -1,5 +1,5 @@
 <!--- - 👋 Hi, I’m @SidGoyal2014  --->
-- 👋 Hi, I’m @SidGoyal2014
+- 👋 Hi, I’m Siddharth Goyal
 - 👀 I’m interested in Programming
 <!--
 - 🌱 I’m currently learning ...
