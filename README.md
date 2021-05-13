@@ -4,7 +4,7 @@
 <!--
 - 🌱 I’m currently learning ...
 --->
-- 💞️ I’m looking to collaborate on Open Source projects
+- 💞️ I’m looking to collaborate on projects
 <!---    
 - 📫 How to reach me ...  
 --->
