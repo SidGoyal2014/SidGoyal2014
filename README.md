@@ -1,10 +1,10 @@
 <!--- - 👋 Hi, I’m @SidGoyal2014  --->
 - 👋 Hi, I’m Siddharth Goyal
 - 👀 I’m interested in Programming
+- - 💞️ I’m looking to collaborate on projects
 <!--
 - 🌱 I’m currently learning ...
 --->
-- 💞️ I’m looking to collaborate on projects
 <!---    
 - 📫 How to reach me ...  
 --->
