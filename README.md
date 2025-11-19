@@ -6,6 +6,8 @@
 - 🌱 I'm currently learning other Agentic techniques like Knowledge graphs & implementations.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: sidgoyal2014@gmail.com
+- 📫 Read my blogs: https://medium.com/@sidgoyal2014
+- 👉 Let's connect on [Twitter](https://x.com/SidGoyal2014) & [Linkedin](https://www.linkedin.com/in/sidgoyal2014/)
 <!--
 - 🌱 I’m currently learning ...
 --->
