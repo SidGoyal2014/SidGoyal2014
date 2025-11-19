@@ -1,7 +1,11 @@
+
 <!--- - 👋 Hi, I’m @SidGoyal2014  --->
 - 👋 Hi, I’m Siddharth Goyal
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming, Artificial Intelligence & Tech in general
+- 🌱 Currently working on a RAG based application in LangGraph.
+- 🌱 I'm currently learning other Agentic techniques like Knowledge graphs & implementations.
 - 💞️ I’m looking to collaborate on projects
+- - 📫 How to reach me: sidgoyal2014@gmail.com
 <!--
 - 🌱 I’m currently learning ...
 --->
