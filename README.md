@@ -5,7 +5,7 @@
 - 🌱 Currently working on a RAG based application in LangGraph.
 - 🌱 I'm currently learning other Agentic techniques like Knowledge graphs & implementations.
 - 💞️ I’m looking to collaborate on projects
-- - 📫 How to reach me: sidgoyal2014@gmail.com
+- 📫 How to reach me: sidgoyal2014@gmail.com
 <!--
 - 🌱 I’m currently learning ...
 --->
