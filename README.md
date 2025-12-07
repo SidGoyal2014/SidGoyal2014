@@ -1,21 +1,36 @@
+# Hi there, I’m Siddharth Goyal 👋
 
-<!--- - 👋 Hi, I’m @SidGoyal2014  --->
-- 👋 Hi, I’m Siddharth Goyal
-- 👀 I’m interested in Programming, Artificial Intelligence & Tech in general
-- 🌱 Currently working on a RAG based application in LangGraph.
-- 🌱 I'm currently learning other Agentic techniques like Knowledge graphs & implementations.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: sidgoyal2014@gmail.com
-- 👉 Read my blogs: https://medium.com/@sidgoyal2014
-- 📫 Let's connect on [Twitter](https://x.com/SidGoyal2014) & [Linkedin](https://www.linkedin.com/in/sidgoyal2014/)
-<!--
-- 🌱 I’m currently learning ...
---->
-<!---    
-- 📫 How to reach me ...  
---->
+### 🤖 AI Engineer & Tech Enthusiast
+*Specializing in RAG Architectures, Agentic Workflows, and Knowledge Graphs.*
 
-<!---
-SidGoyal2014/SidGoyal2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧐 About Me
+I am a developer passionate about the intersection of **Artificial Intelligence** and scalable software. Currently, I am deep-diving into the world of **LLMs**, moving beyond basic prompting to build complex, reasoning agents.
+
+- 🔭 **Currently building:** A Retrieval-Augmented Generation (RAG) application using **LangGraph**.
+- 🌱 **Learning:** Advanced Agentic patterns, Knowledge Graph implementation, and GraphRAG.
+- 💬 **Ask me about:** Python, LLMs, Vector Databases, and Backend Systems.
+- ⚡ **Fun fact:** I don't just write code; I write about it too on Medium.
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### 📝 Latest Insights
+I document my learning journey and technical deep dives.
+* [Read my articles on Medium](https://medium.com/@sidgoyal2014)
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://x.com/SidGoyal2014" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="SidGoyal2014" /></a>
+<a href="https://linkedin.com/in/sidgoyal2014" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siddharth Goyal" /></a>
+<a href="mailto:sidgoyal2014@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
